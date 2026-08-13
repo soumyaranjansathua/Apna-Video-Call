@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Apna-Video-Call/static/css/main.e9e2c6b1.css",
-    "main.js": "/Apna-Video-Call/static/js/main.cc8d42a8.js",
+    "main.js": "/Apna-Video-Call/static/js/main.4ae4401e.js",
     "static/js/787.9e9f4ffd.chunk.js": "/Apna-Video-Call/static/js/787.9e9f4ffd.chunk.js",
     "static/media/background.png": "/Apna-Video-Call/static/media/background.3ed97df76aa1ce9a5eec.png",
     "index.html": "/Apna-Video-Call/index.html",
     "main.e9e2c6b1.css.map": "/Apna-Video-Call/static/css/main.e9e2c6b1.css.map",
-    "main.cc8d42a8.js.map": "/Apna-Video-Call/static/js/main.cc8d42a8.js.map",
+    "main.4ae4401e.js.map": "/Apna-Video-Call/static/js/main.4ae4401e.js.map",
     "787.9e9f4ffd.chunk.js.map": "/Apna-Video-Call/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9e2c6b1.css",
-    "static/js/main.cc8d42a8.js"
+    "static/js/main.4ae4401e.js"
   ]
 }
